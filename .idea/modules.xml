@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ddd.iml" filepath="$PROJECT_DIR$/.idea/ddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/event-sourcing-axon-spring-boot/event-sourcing-axon-spring-boot.iml" filepath="$PROJECT_DIR$/event-sourcing-axon-spring-boot/event-sourcing-axon-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-cqrs-axon/spring-boot-cqrs-axon.iml" filepath="$PROJECT_DIR$/spring-boot-cqrs-axon/spring-boot-cqrs-axon.iml" />
+    </modules>
+  </component>
+</project>
